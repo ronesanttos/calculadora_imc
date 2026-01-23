@@ -12,9 +12,7 @@ A Calculadora de IMC permite que o usuário insira seu peso e altura e obtém o 
 
 O **Índice de Massa Corporal (IMC)** é uma medida utilizada para avaliar se uma pessoa está abaixo, dentro ou acima do peso saudável, baseado na relação entre peso e altura. Ele é calculado pela fórmula:
 
----
-
-O resultado é interpretado com base em intervalos de classificação, como abaixo do peso, peso normal, sobrepeso e obesidade, conforme padrões amplamente adotados por organizações de saúde. :contentReference[oaicite:0]{index=0}
+O resultado é interpretado com base em intervalos de classificação, como abaixo do peso, peso normal, sobrepeso e obesidade, conforme padrões amplamente adotados por organizações de saúde.
 
 ---
 
